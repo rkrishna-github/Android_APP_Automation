@@ -1,1 +1,1 @@
-Android App Automation Project
+Android App Automation Project Training
